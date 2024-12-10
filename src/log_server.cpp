@@ -9,7 +9,8 @@
 
 //------------------------------------------------------------------------------
 //
-// Example: HTTP server, fast
+// Did a little change as a log server based on the example of HTTP fast server
+//                                                                 - Walter Fan
 //
 //------------------------------------------------------------------------------
 
