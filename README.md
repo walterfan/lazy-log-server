@@ -1,7 +1,8 @@
 # lazy-log-server
 
-lazy-log-server by lazy rabbit studio
-inspired by Boost HTTP server example
+lazy-log-server by lazy rabbit studio.
+
+It's inspired by Boost HTTP server example
 
 ## Prerequisites
 
